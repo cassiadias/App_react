@@ -1,0 +1,12 @@
+{
+  "name": "Fseletro",
+  "displayName": "Fseletro",
+  "expo": {
+    "name": "Fseletro",
+    "slug": "Fseletro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
