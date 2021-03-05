@@ -1,9 +1,12 @@
+
+
+
 {
-  "name": "Fseletro",
-  "displayName": "Fseletro",
+  "name": "MyBooks",
+  "displayName": "MyBooks",
   "expo": {
-    "name": "Fseletro",
-    "slug": "Fseletro",
+    "name": "MyBooks",
+    "slug": "MyBooks",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

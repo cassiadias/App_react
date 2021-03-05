@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Fseletro.app"
-               BlueprintName = "Fseletro"
-               ReferencedContainer = "container:Fseletro.xcodeproj">
+               BuildableName = "MyBooks.app"
+               BlueprintName = "MyBooks"
+               ReferencedContainer = "container:MyBooks.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "FseletroTests.xctest"
-               BlueprintName = "FseletroTests"
-               ReferencedContainer = "container:Fseletro.xcodeproj">
+               BuildableName = "MyBooksTests.xctest"
+               BlueprintName = "MyBooksTests"
+               ReferencedContainer = "container:MyBooks.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Fseletro.app"
-            BlueprintName = "Fseletro"
-            ReferencedContainer = "container:Fseletro.xcodeproj">
+            BuildableName = "MyBooks.app"
+            BlueprintName = "MyBooks"
+            ReferencedContainer = "container:MyBooks.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Fseletro.app"
-            BlueprintName = "Fseletro"
-            ReferencedContainer = "container:Fseletro.xcodeproj">
+            BuildableName = "MyBooks.app"
+            BlueprintName = "MyBooks"
+            ReferencedContainer = "container:MyBooks.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
